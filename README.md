@@ -107,3 +107,7 @@ Verification Steps
 7. Verify click count is displayed
 8. Verify data is fetched from backend API
 
+
+Screenshots
+image (8).jpg
+image (50).png
